@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         
         let movie1 = Movies(movieId: 1, movieTitle: "Django", moviePicname: "django", moviePrice: 34.99)
         let movie2 = Movies(movieId: 2, movieTitle: "Inception", moviePicname: "inception", moviePrice: 55.99)
-        let movie3 = Movies(movieId: 3, movieTitle: "Interstellar", moviePicname: "interstellar", moviePrice: 43.00)
+        let movie3 = Movies(movieId: 3, movieTitle: "Interstellar", moviePicname: "interstellar", moviePrice: 43.99)
         let movie4 = Movies(movieId: 4, movieTitle: "Anadoluda", moviePicname: "birzamanlaranadoluda", moviePrice: 99.99)
         let movie5 = Movies(movieId: 5, movieTitle: "The Hateful Eight", moviePicname: "thehatefuleight", moviePrice: 56.99)
         let movie6 = Movies(movieId: 6, movieTitle: "The Pianist", moviePicname: "thepianist", moviePrice: 55.99)
